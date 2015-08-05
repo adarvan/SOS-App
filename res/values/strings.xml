@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">S.O.S projet</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name = "reset_dialog">Notes : si vou continué le jeux recommencera. Êtes-vous sur de vouloir recommencé?</string>
+    <string name = "cancel">Cancel</string>
+    <string name = "oui">yes</string>
+    
+    <string name="btn_default"> </string>
+    <string name="btn_s">S</string>
+    <string name="btn_o">O</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_instructions">Instructions</string>
+    
+    
+    <string name="radio_o">O</string>
+    <string name="radio_s">S</string>
+    
+    <string name="J1">Player 1 : </string>
+    <string name="J2">Player 2 : </string>
+    <string name="J3">Player 3 : </string>
+    <string name="J4">Player 4 : </string>
+    <string-array name = "nj">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        
+    </string-array>
+
+</resources>
